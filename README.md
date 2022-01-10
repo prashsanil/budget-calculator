@@ -1,5 +1,13 @@
 # Budget Calculator
 
+You can checkout this project here.
+
+https://budget-calculator-using-angular.netlify.app/
+
+
+Guided project: https://www.youtube.com/watch?v=sU4z4Ti-8OQ&t=4s
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
